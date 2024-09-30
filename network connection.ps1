@@ -12,3 +12,5 @@ if ($networkProfile.NetworkCategory -eq 'Public') {
 
 # Display the updated network connection profile
 Get-NetConnectionProfile
+
+#how to run this script powershell -ExecutionPolicy Bypass -File ChangeNetworkProfile.ps1
