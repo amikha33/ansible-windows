@@ -14,3 +14,4 @@ if ($networkProfile.NetworkCategory -eq 'Public') {
 Get-NetConnectionProfile
 
 #how to run this script powershell -ExecutionPolicy Bypass -File ChangeNetworkProfile.ps1
+#Get python path C:\Users\xxx\AppData\Local\Microsoft\WindowsApps\python.exe
